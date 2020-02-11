@@ -119,6 +119,8 @@ analytics:
 
 teaser: "/assets/images/bio-photo.jpg"
 logo: "/assets/images/bio-photo.jpg"
+og_image: "/assets/images/bio-photo.jpg"
+
 breadcrumbs: true  # disabled by default
 
 
@@ -127,4 +129,7 @@ comments:
   facebook:
     appid: # optional
     num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    colorscheme: # "light" (default), "dark"  
+
+twitter:
+  username: "brexitdaily"
