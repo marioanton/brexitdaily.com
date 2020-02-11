@@ -1,5 +1,5 @@
 ---
-title: "Bienvenido a Brexit Daily News "
+title: "Bienvenido a Brexit Daily News"
 date: 2020-02-10T15:34:30-04:00
 categories:
   - blog
