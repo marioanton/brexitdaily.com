@@ -65,7 +65,7 @@ author:
       url: "https://www."
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/brexitdaily"
+      url: "https://twitter.com/brexitdailynews"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -74,7 +74,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/brexitdaily"
+      url: "https://twitter.com/brexitdailynews"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"
