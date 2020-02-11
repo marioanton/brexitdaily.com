@@ -115,3 +115,5 @@ analytics:
   google:
     tracking_id: "UA-29706858-11"
     anonymize_ip: false # default
+
+teaser: "/assets/images/bio-photo.jpg"
