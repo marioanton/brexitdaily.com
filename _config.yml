@@ -60,6 +60,7 @@ author:
   name   : "Ciudadano"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ciudadano residente en Newcastle con ganas de informar."
+  location : "NE2"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -133,3 +134,8 @@ comments:
 
 twitter:
   username: "brexitdaily"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development 
