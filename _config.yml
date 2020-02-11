@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "European"
+  name   : "Ciudadano"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Intentemos salir de la union sin dolor"
+  bio    : "Ciudadano residente en Newcastle con ganas de informar."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
