@@ -119,3 +119,4 @@ analytics:
 
 teaser: "/assets/images/bio-photo.jpg"
 logo: "/assets/images/bio-photo.jpg"
+breadcrumbs: true  # disabled by default
