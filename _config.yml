@@ -101,6 +101,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
 
 category_archive:
   type: liquid
