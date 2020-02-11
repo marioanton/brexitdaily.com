@@ -120,3 +120,11 @@ analytics:
 teaser: "/assets/images/bio-photo.jpg"
 logo: "/assets/images/bio-photo.jpg"
 breadcrumbs: true  # disabled by default
+
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
