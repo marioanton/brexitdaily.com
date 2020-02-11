@@ -1,28 +1,22 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Bienvenido a Brexit Daily News "
+date: 2020-02-10T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - brexit
+  - news
+  - daily
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Empezando mañana, encontraréis noticias respecto a los acuerdos en español y en inglés con los paises de la Union Europea y el resto.
+Espero que encontréis el blog útil. La web irá cambiando de diseño poco a poco y comentarios serán habilitados asi como redes sociales etc...
 
 ```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Solo he visto el infierno trabajando en la Comisión Europea
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[![Juncker](https://img.youtube.com/vi/n0ra-kd240E/0.jpg)](https://www.youtube.com/watch?v=n0ra-kd240E)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
