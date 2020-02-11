@@ -117,3 +117,4 @@ analytics:
     anonymize_ip: false # default
 
 teaser: "/assets/images/bio-photo.jpg"
+logo: "/assets/images/bio-photo.jpg"
