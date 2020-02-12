@@ -11,7 +11,7 @@ tags:
 
 Documentación sobre controles de imporatación y facturación por atención sanitaria ha sido publicada.
 
-##### NHS #####
+#### NHS ####
 
 El documento completo sobre los gastos que se aplican puede encontrarse aquí: [NHS Charges](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864481/Guidance_on_implementing_the_overseas_visitor_charging_regulations_-_Feb_2020.pdf)
 
@@ -46,7 +46,7 @@ Estaros al tanto por que el personal frontline, como el de A&E estarán preparad
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re taking steps to ensure those not eligible for free <a href="https://twitter.com/hashtag/NHS?src=hash&amp;ref_src=twsrc%5Etfw">#NHS</a> care will be charged upfront for non-urgent treatment. <a href="https://t.co/VuKS59O2nA">https://t.co/VuKS59O2nA</a> <a href="https://t.co/ptGMoaU4I4">pic.twitter.com/ptGMoaU4I4</a></p>&mdash; DHSC Media Centre (@DHSCmedia) <a href="https://twitter.com/DHSCmedia/status/828588759532892160?ref_src=twsrc%5Etfw">February 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##### Controles a la importación #####
+#### Controles a la importación ####
 
 En un **discurso** pronunciado hoy por el Canciller del Ducado de Lancaster en un evento para grupos de interés de Border Delivery Group, confirmó que todas las exportaciones e importaciones del Reino Unido recibirán el mismo trato. Esto significará que los comerciantes en la UE y GB deberán presentar declaraciones de aduanas y ser responsables de los cheques de mercancías. También confirmó que las servidumbres políticas establecidas para una posible salida sin acuerdo no se reintroducirán a medida que las empresas tengan tiempo para prepararse.
 
