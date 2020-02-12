@@ -13,8 +13,6 @@ Documentación sobre controles de imporatación y facturación por atención san
 
 ##### NHS #####
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re taking steps to ensure those not eligible for free <a href="https://twitter.com/hashtag/NHS?src=hash&amp;ref_src=twsrc%5Etfw">#NHS</a> care will be charged upfront for non-urgent treatment. <a href="https://t.co/VuKS59O2nA">https://t.co/VuKS59O2nA</a> <a href="https://t.co/ptGMoaU4I4">pic.twitter.com/ptGMoaU4I4</a></p>&mdash; DHSC Media Centre (@DHSCmedia) <a href="https://twitter.com/DHSCmedia/status/828588759532892160?ref_src=twsrc%5Etfw">February 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 El documento completo sobre los gastos que se aplican puede encontrarse aquí: [NHS Charges](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/864481/Guidance_on_implementing_the_overseas_visitor_charging_regulations_-_Feb_2020.pdf)
 
 Basicamente el documento no dice nada nuevo a partir de los tratados existentes con la EEA pero es expecifico para el periodo transitorio por eso dejo algunos breves detalles. El documento, en inglés contiene todo tipo de detalles.
@@ -44,9 +42,9 @@ Basicamente el documento no dice nada nuevo a partir de los tratados existentes 
 
 Si el documento indicado te pare un rollo (lo es), siempre puedes visitar para una version humana sobre como recibir [sanidad en el Reino unido](http://www.nhs.uk/nhsengland/Healthcareabroad/pages/Healthcareabroad.aspx).
 
-Estaros al tanto por que el personal frontline, como el de A&E estarán preparados para identificar si tienes derecho o no a sanidad. Y si, están un poco estrictos:
-https://twitter.com/DHSCmedia/status/828588759532892160?s=20
+Estaros al tanto por que el personal frontline, como el de A&E estarán preparados para identificar si tienes derecho o no a sanidad. Y si, están un poco estrictos como podéis ver  en el tweet siguiente:
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re taking steps to ensure those not eligible for free <a href="https://twitter.com/hashtag/NHS?src=hash&amp;ref_src=twsrc%5Etfw">#NHS</a> care will be charged upfront for non-urgent treatment. <a href="https://t.co/VuKS59O2nA">https://t.co/VuKS59O2nA</a> <a href="https://t.co/ptGMoaU4I4">pic.twitter.com/ptGMoaU4I4</a></p>&mdash; DHSC Media Centre (@DHSCmedia) <a href="https://twitter.com/DHSCmedia/status/828588759532892160?ref_src=twsrc%5Etfw">February 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### Controles a la importación #####
 
