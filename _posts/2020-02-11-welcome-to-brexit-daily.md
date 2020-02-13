@@ -16,4 +16,4 @@ La web irá cambiando de diseño poco a poco y comentarios serán habilitados as
 
 "Solo he visto el infierno trabajando en la Comisión Europea" - Juncker
 
-[![Juncker](https://img.youtube.com/vi/n0ra-kd240E/0.jpg)](https://www.youtube.com/watch?v=n0ra-kd240E)
+{% include video id="n0ra-kd240E" provider="youtube" %}
