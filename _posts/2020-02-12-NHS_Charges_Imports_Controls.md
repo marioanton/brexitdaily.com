@@ -19,7 +19,7 @@ Basicamente el documento no dice nada nuevo a partir de los tratados existentes 
 
 1. Las normas vigentes en virtud de los Reglamentos de la UE siguen aplicándose hasta el 31 de diciembre de 2020. Los cuerpos relevantes aún deben maximizar la identificación de estos pacientes y recoger la información necesaria para permitir la recuperación de los gastos.  
 
-   1. **Tarjeta Sanitaria Europea **seguirá será requerida (Aplicable igual para ciudadanos britanicos en EEA, EHIC card será requerida.). Si no tienes la tarjeta sanitaria deberás pagar pero podrás reclamar el gasto si la tenias ya emitida y en vigor.
+   1. **Tarjeta Sanitaria Europea** seguirá será requerida (Aplicable igual para ciudadanos britanicos en EEA, EHIC card será requerida.). Si no tienes la tarjeta sanitaria deberás pagar pero podrás reclamar el gasto si la tenias ya emitida y en vigor.
    
    2. Ciudadanos britanicos se beneficiaran **reciprocamente** de todos los acuerdos UK <> EEA
       1. Hasta el 31 de diciembre de 2020, no hay cambios en la forma en que los visitantes extranjeros del EEE o Suiza acceden a la atención médica en el Reino Unido.
