@@ -118,9 +118,9 @@ analytics:
     tracking_id: "UA-29706858-11"
     anonymize_ip: false # default
 
-teaser: "/assets/images/bio-photo.jpg"
-logo: "/assets/images/logo.png"
-og_image: "/assets/images/bio-photo.jpg"
+teaser: "/assets/images/logo.jpg"
+logo: "/assets/images/bio-photo.png"
+og_image: "/assets/images/logo.png.jpg"
 
 breadcrumbs: true  # disabled by default
 
