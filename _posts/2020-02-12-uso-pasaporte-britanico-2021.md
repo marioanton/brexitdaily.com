@@ -1,6 +1,9 @@
 ---
 title: "Viajar a Europa con pasaporte Britanico desde 2021"
 date: 2020-02-12T15:34:30-04:00
+header:
+  teaser: /assets/images/pasaporte.png
+  og_image: /assets/images/pasaporte.png
 categories:
   - blog
 tags:
