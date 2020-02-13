@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "brexitdaily"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo.png"
   bio    : "Ciudadano residente en Newcastle con ganas de informar."
   location : "NE2"
   links:
