@@ -119,7 +119,7 @@ analytics:
     anonymize_ip: false # default
 
 teaser: "/assets/images/logo.png"
-logo: "/assets/images/bio-photo.png"
+logo: "/assets/images/bio-photo.jpg"
 og_image: "/assets/images/logo.png"
 
 breadcrumbs: true  # disabled by default
