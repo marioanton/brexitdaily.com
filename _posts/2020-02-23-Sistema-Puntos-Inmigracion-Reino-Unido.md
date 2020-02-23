@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - "inmigracion"
+  - "settle status"
 ---
 
 ### Sitema de puntos para la inmigración en el Reino Unido tras Brexit ###
