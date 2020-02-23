@@ -24,7 +24,7 @@ Resumiendo, esto es lo que se aplicará tras el 31 de Diciembre de 2020.
 
 1. Los inmigrantes aún deberán ser pagados más que el salario mínimo específico para su ocupación. No habrá diferentes umbrales de salario minimo por regiones. El salario minimo es de 25.600 pounds por año.
 
-2. Si el trabajador ganan menos del umbral de salario mínimo requerido, pero no menos de £ 20,480, aún pueden venir si pueden demostrar que tienen una oferta de trabajo en una ocupación de escasez específica, según lo designado por el MAC, o que tienen un doctorado relevante para el trabajo. En efecto, los solicitantes podrán "intercambiar" características tales como su oferta de trabajo específica y calificaciones contra un salario más bajo que el salario mínimo o la "tasa actual" en su campo. (Ejemplo, ingeniero con PHD ganando 23k).
+2. Si el trabajador ganan menos del umbral de salario mínimo requerido, pero no menos de £ 20,480, aún pueden venir si pueden demostrar que tienen una oferta de trabajo en una ocupación de escasez específica, según lo designado por el MAC, o que tienen un doctorado relevante para el trabajo. En efecto, los solicitantes podrán "intercambiar" características tales como su oferta de trabajo específica y calificaciones contra un salario más bajo que el salario mínimo o la "tasa actual" en su campo. Un ejemplo, ingeniero con PHD ganando 23k.
 
 #### Trabajadores cualificados ####
 
@@ -32,7 +32,7 @@ Resumiendo, esto es lo que se aplicará tras el 31 de Diciembre de 2020.
 
 2. Se creará un ruta no ruta no sponsorizada dentro del sistema basado en puntos para correr junto con el sistema dirigido por el empleador. Esto permitirá que un número menor de trabajadores altamente calificados vengan a Reino Unido sin una oferta de trabajo.
 
-##### Table de requisitos #####
+#### Table de requisitos ####
 
 ![Tabla requisitos trabajados cualificados](http://www.brexitdaily.com/assets/images/tabla-requisitos.jpg "Tabla de requisitos")
 
