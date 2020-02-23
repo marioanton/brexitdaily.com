@@ -28,15 +28,15 @@ Resumiendo, esto es lo que se aplicará tras el 31 de Diciembre de 2020.
 
 #### Trabajadores cualificados ####
 
-1. **A partir de enero de 2021, ampliaremos la ruta actual del talento global a los ciudadanos de la UE** en la misma base que los ciudadanos no pertenecientes a la UE. Los más calificados, que pueden lograr el nivel requerido de puntos, podrá ingresar al Reino Unido sin una oferta de trabajo si son avalado por un organismo relevante y competente. Este esquema ha sido recientemente ampliado para ser más accesible para aquellos con experiencia en temas STEM que desee venir al Reino Unido.
+1. A partir de enero de 2021, **ampliaremos la ruta actual del talento global a los ciudadanos de la UE** en la misma base que los ciudadanos no pertenecientes a la UE. Los más calificados, que pueden lograr el nivel requerido de puntos, podrá ingresar al Reino Unido sin una oferta de trabajo si son avalado por un organismo relevante y competente. Este esquema ha sido recientemente ampliado para ser más accesible para aquellos con experiencia en temas STEM que desee venir al Reino Unido.
 
 2. Se creará un ruta no ruta no sponsorizada dentro del sistema basado en puntos para correr junto con el sistema dirigido por el empleador. Esto permitirá que un número menor de trabajadores altamente calificados vengan a Reino Unido sin una oferta de trabajo.
 
 #### Table de requisitos ####
 
-![Tabla requisitos trabajados cualificados](http://www.brexitdaily.com/assets/images/tabla-requisitos.jpg "Tabla de requisitos")
+![Tabla requisitos trabajados cualificados](http://www.brexitdaily.com/assets/images/tabla-requisitos.jpg "Tabla de requisitos").
 
-#### Trabajadores poco cualificados ####
+#### Trabajadores poco cualificados ####
 
 1. Como parte de los cambios significativos que estamos haciendo en la operación de la frontera y sistema de inmigración, estamos cumpliendo nuestro compromiso manifiesto de **reducir en generalnúmeros de migración**. Por lo tanto, finalizaremos el movimiento libre y no implementaremos una ruta para trabajadores poco calificados.
 
