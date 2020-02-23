@@ -49,7 +49,7 @@ contribuciones a nuestra economía y sociedad. Tanto el estado Settle Status or 
 
 1. No crearemos una ruta dedicada para los trabajadores independientes. Reconocemos que hay varias profesiones donde hay una gran dependencia de los trabajadores independientes. Continuarán pudiendo ingresar al Reino Unido bajo la ruta innovadora y lo harán a su debido tiempo. Por supuesto poder beneficiarse de la ruta no patrocinada propuesta. El Reino Unido ya atrae a artistas, artistas y músicos de talla mundial y continuaremos haciéndolo en el futuro. Las reglas existentes en el Reino Unido permiten a artistas, artistas y músicos actuar en eventos y participar en concursos y audiciones por hasta seis meses. Pueden recibir pagos por apariciones en ciertos festivales o hasta por un mes por un compromiso específico, sin la necesidad de un patrocinio formal o una visa de trabajo.
 
-#### Criminalidad ####
+#### Criminalidad ####
 
 1. Desde el final del período de transición, introduciremos un enfoque único, consistente y más firme de la criminalidad en todo el sistema de inmigración. Aplicaremos esto a todos los que deseen venir al Reino Unido, sin importar de dónde sean. Actualmente, los ciudadanos de la UE están sujetos a umbrales de criminalidad diferentes a los del resto del mundo. Las normas existentes del Reino Unido para los ciudadanos no pertenecientes a la UE son más estrictas y más específicas. La aplicación de la prueba actual de políticas públicas de la UE es menos segura y predecible en la práctica.
 
