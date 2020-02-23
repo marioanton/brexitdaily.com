@@ -1,8 +1,6 @@
 ---
 title: "Sistema de puntos para la inmigracion en el Reino Unido after Brexit"
 date: 2020-02-23T10:37:30-04:00
-header:
-  teaser: /assets/images/outreach-spain.png
 categories:
   - blog
 tags:
