@@ -51,8 +51,7 @@ contribuciones a nuestra economía y sociedad. Tanto el estado Settle Status or 
 
 #### Criminalidad ####
 
-1. Desde el final del período de transición, introduciremos un enfoque único, consistente y más firme de la criminalidad en todo el sistema de inmigración. Aplicaremos esto a todos los que deseen venir al Reino Unido, sin importar de dónde sean. Actualmente, los ciudadanos de la UE están sujetos a umbrales de criminalidad diferentes a los del resto del mundo. Las normas existentes del Reino Unido para los ciudadanos no pertenecientes a la UE son más estrictas y más específicas. La aplicación de la prueba actual de políticas públicas de la UE es menos segura y predecible en la práctica de lo que lo haríamos
-me gusta.
+1. Desde el final del período de transición, introduciremos un enfoque único, consistente y más firme de la criminalidad en todo el sistema de inmigración. Aplicaremos esto a todos los que deseen venir al Reino Unido, sin importar de dónde sean. Actualmente, los ciudadanos de la UE están sujetos a umbrales de criminalidad diferentes a los del resto del mundo. Las normas existentes del Reino Unido para los ciudadanos no pertenecientes a la UE son más estrictas y más específicas. La aplicación de la prueba actual de políticas públicas de la UE es menos segura y predecible en la práctica.
 
 #### VISA ####
 
