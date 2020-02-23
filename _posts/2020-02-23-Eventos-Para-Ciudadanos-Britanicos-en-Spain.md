@@ -2,7 +2,7 @@
 title: "Eventos para ciudadanos británicos en España"
 date: 2020-02-23T10:34:30-04:00
 header:
-  teaser: /assets/images/outread-spain.png
+  teaser: /assets/images/outreach-spain.png
 categories:
   - blog
 tags:
